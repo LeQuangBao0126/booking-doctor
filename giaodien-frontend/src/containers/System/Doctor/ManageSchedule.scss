@@ -1,0 +1,22 @@
+.manage-schedule-container{
+    .pick-hour-container{
+        height:150px;
+        border:1px solid rgb(99, 97, 97);
+        margin : 10px 0px;
+        .btn-schedule{
+            border :1px solid gray;
+            padding :10px;
+            line-height: 10px;
+            margin-top:10px;
+            background-color: rgb(149, 154, 172);
+            margin-left:5px;
+            &:hover {
+                  background-color: darkcyan;
+            }
+        }
+        
+        .active{
+            background-color: yellow;
+        }
+    }
+}

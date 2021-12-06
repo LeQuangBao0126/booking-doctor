@@ -1,0 +1,52 @@
+{
+    "home-header":{
+        "speciality":"Speciality",
+        "findDoctorBySpeciality": "Find Doctor By Speciality",
+        "welcome":"Welcome"
+    },
+    "menu": {
+        "system": {
+            "header": "System",
+            "system-administrator": {
+                "header": "System Administrator",
+                "user-manage": "User manage",
+                "user-manage-redux": "User manage redux",
+                "register-package-group-or-account": "Register service package for group/account"
+            },
+            "system-parameter": {
+                "header": "System-parameter"
+            }
+        },
+        "admin":{
+            "manage-user":"Manage User",
+            "manage-doctor":"Manage Doctors",
+            "manage-admin":"Manage Admins",
+            "crud-redux":"CRUD user",
+            "clinic":"Clinics",
+            "manage-clinic":"Manage clinics",
+            "specialty": "Specialty",
+            "manage-specialty": "Manage Specialty",
+            "handbook": "Handbook",
+            "manage-handbook": "Manage Handbook"
+        },
+        "doctor":{
+            "manage-schedule":"Manage Doctor's Schedule"
+        }
+
+    },
+    "manage-user":{
+        "add" :"Add New",
+        "email" :"Email",
+        "address" :"Address",
+        "password" :"Password",
+        "first-name" :"FirstName",
+        "last-name" :"LastName",
+        "phone-number" :"Phone Number",
+        "position" : "Position",
+        "role":"Role",
+        "save" : "Save user"
+    },
+    "manage-schedule":{
+        "title":"Manage schedule of Doctor"
+    }
+}

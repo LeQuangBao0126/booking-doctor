@@ -1,0 +1,52 @@
+{
+    "home-header": {
+        "speciality": "Chuyên Khoa",
+        "findDoctorBySpeciality": "Tìm bác sĩ theo chuyên khoa",
+        "welcome":"Xin Chào"
+    },
+    "menu": {
+        "system": {
+            "header": "Hệ thống",
+            "system-administrator": {
+                "header": "Quản trị hệ thống",
+                "user-manage": "Quản lý người sử dụng",
+                "user-manage-redux": "Quản lý người sử dụng redux",
+                "register-package-group-or-account": "Đăng ký gói dịch vụ cho nhóm/tài khoản"
+            },
+            "system-parameter": {
+                "header": "Tham số hệ thống"
+            }
+        },
+        "admin":{
+            "manage-user":"Quản lý người dùng",
+            "manage-doctor":"Quản lý bác sĩ",
+            "manage-admin":"Quản lý admin",
+            "crud-redux":"CRUD user",
+            "clinic":"Phòng khám",
+            "manage-clinic":"Quản lý phòng khám",
+            "specialty": "Chuyên khoa",
+            "manage-specialty": "Quản lý Chuyên khoa",
+            "handbook": "Cẩm nang",
+            "manage-handbook": "Quản lý Cẩm nang"
+        },
+        "doctor":{
+            "manage-schedule":"Quản lý khám bệnh"
+        }
+    },
+    "manage-user":{
+        "add" :"Thêm mới",
+        "email" :"Email",
+        "address":"Địa chỉ",
+        "password" :"Mật Khẩu",
+        "first-name" :"Tên",
+        "last-name" :"Họ",
+        "phone-number" :"Số điện thoại",
+        "position" : "Chức Danh",
+        "role":"Vai trò",
+        "save" : "Lưu người dùng"
+    },
+    "manage-schedule":{
+        "title":"Quản lý kế hoạch khám bệnh của bác sĩ"
+    }
+}
+ 
